@@ -1,0 +1,6 @@
+#ifndef ROOT_PATH_H_
+#define ROOT_PATH_H_
+
+constexpr char kRootDir[] = "@CMAKE_SOURCE_DIR@";
+
+#endif 
